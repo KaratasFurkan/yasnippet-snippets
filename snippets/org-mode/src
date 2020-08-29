@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
-# name: src
-# key: <src
+# name: source code
+# key: s
 # --
-#+BEGIN_SRC $1
-  $0
+#+BEGIN_SRC ${1:emacs-lisp}
+$0
 #+END_SRC
