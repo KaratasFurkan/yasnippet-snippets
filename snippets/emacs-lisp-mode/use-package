@@ -2,4 +2,4 @@
 # name: usepackage
 # key: u
 # --
-(use-package ${1:package})
+(use-package $0)

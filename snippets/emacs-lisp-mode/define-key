@@ -4,4 +4,4 @@
 # key: define-key
 # key: dk
 # --
-(define-key ${1:mode}-map (kbd "${2:key}") $0)
+(define-key ${1:keymap} (kbd "${2:key}") $0)

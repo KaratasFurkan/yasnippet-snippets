@@ -4,4 +4,4 @@
 # key: expand-file-name
 # key: efn
 # --
-(expand-file-name $0)
+(expand-file-name "${2:file}" ${1:user-emacs-directory})

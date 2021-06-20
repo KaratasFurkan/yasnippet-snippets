@@ -2,4 +2,4 @@
 # name: straight-github
 # key: sg
 # --
-:straight (${1:package} :host github :repo "${2:username/repo}" ${3::branch "${4:branch}"})
+:straight (:host github :repo "${1:username/repo}"${2: :branch "${3:branch}"})

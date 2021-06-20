@@ -3,5 +3,5 @@
 # key: u
 # --
 #+BEGIN_SRC emacs-lisp
-  (use-package $0)
+(use-package $0)
 #+END_SRC

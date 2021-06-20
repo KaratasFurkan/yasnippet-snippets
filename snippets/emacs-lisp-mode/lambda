@@ -2,4 +2,4 @@
 # name: lambda
 # key: lam
 # --
-(lambda ($1) ${2:($3)})
+(lambda ($1) ${2:(interactive) }${3:($4)})

@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: Code block
-# key: code
+# key: s
 # --
 \`\`\`$1
 $0
